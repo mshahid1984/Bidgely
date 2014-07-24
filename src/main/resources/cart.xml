@@ -1,0 +1,11 @@
+<root>
+    <Test>
+        <cart>
+            <Product>
+            </Product>
+            <Quantiy></Quantiy>
+            <price></price>
+            <currencyCode></currencyCode>
+        </cart>
+    </Test>
+</root>

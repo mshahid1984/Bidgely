@@ -1,0 +1,64 @@
+#Source#
+*.dll
+*.exe
+*.class
+
+#Packages#
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+
+*.idea/**
+*.project
+*.tar
+*.zip
+*.releaseBackup
+
+#Intellij Files
+**/.idea/**
+*.iml
+
+#Logs#
+*.log
+
+#Eclipse#
+*.metadata
+**/.project
+**/.classpath
+
+#OutputDirectories
+*/bin/**
+*/target/**
+
+
+
+*/tmp/**
+*/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+**/local
+
+# External tool builders#
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"#
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+#Maven#
+log/
+target/
+
